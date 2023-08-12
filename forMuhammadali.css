@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+body{
+  width: 1300px;
+}
+.section-mb {
+ 
+}
+
+.rec {
+
+
+}
+
+.h1-mb {
+  display: flex;
+  justify-content: center ;
+}
