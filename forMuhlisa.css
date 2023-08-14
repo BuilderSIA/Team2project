@@ -210,3 +210,61 @@ span {
     color: #fff;
     background-color: #B5002A;
 }
+
+
+
+.section7 {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.sect7-title {
+    font-size: 36px;
+    font-weight: 600;
+    color: #555555;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 60px 0 0 0;
+}
+
+.sect7-wrapper {
+    width: 71%;
+    height: 540px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin: 40px 0 0 182px;
+    padding: 30px 0 0 0;
+}
+
+.sect7-line {
+    width: 800px;
+    height: 1px;
+    border: none;
+    background-color: #555555;
+    margin: 10px 0 10px 60px;
+    opacity: .3;
+}
+
+.sect7-w {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 40px;
+    margin: 0 0 0 60px;
+}
+
+.sect7-text {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 25px;
+    margin: 0 0 0 60px;
+}
+
+.sect7-button {
+    padding: 11px 35px;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #B5002A;
+    border: none;
+    border-radius: 5px;
+    margin: 20px 0 0 350px;
+}
